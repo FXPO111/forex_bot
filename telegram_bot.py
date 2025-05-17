@@ -7,7 +7,7 @@ import asyncio
 import time
 import os
 
-BOT_TOKEN = '7636335819:AAGdVsQmqEAhFlsxLUBvr-X0-uRt8f2Zenc'
+TOKEN = os.getenv("BOT_TOKEN")
 IMAGE_DIR = "images"
 
 # Клавиатуры
