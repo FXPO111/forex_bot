@@ -2,3 +2,4 @@ python-telegram-bot==20.0
 beautifulsoup4
 requests
 scikit-learn
+sentence-transformers
